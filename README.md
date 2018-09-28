@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/pA6SRQ6.gif"/>  
 </p>
 
-Repositório responsável pelas demos realizadas durante o evento .NET Inside Rio, sobre: **Uso da Linguagem Natural com Azure & Microsoft Bot Framework** [AQUI](https://bit.ly/2NHd4eL)
+Repositório responsável pelas demos realizadas durante o evento .NET Conf 2018: Goiânia, sobre: **Uso da Linguagem Natural em C# com Azure & Microsoft Bot Framework** [AQUI](https://www.meetup.com/pt-BR/Override/events/251715867/)
 
 ## Recursos Utilizados no Desenvolvimento da Aplicação & Pré-requisitos: :rocket:
 
