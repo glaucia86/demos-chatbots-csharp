@@ -10,15 +10,15 @@ Repositório responsável pelas demos realizadas durante o evento .NET Conf 2018
 
 Para realizar as demos dessa série, se faz necessário instalar os seguintes programas:
 
-* Visual Studio 2017 - [DOWNLOAD AQUI](https://visualstudio.microsoft.com/)
+* Visual Studio 2017 - [DOWNLOAD AQUI](https://visualstudio.microsoft.com/?WT.mc_id=javascript-0000-gllemos)
 * Microsoft Bot Framework Emulator - [DOWNLOAD AQUI](https://github.com/Microsoft/BotFramework-Emulator/releases
 )
-* Atualizar todas as extensões no Visual Studio - [COMO FAZER ATUALIZAÇÕES](https://docs.microsoft.com/en-us/visualstudio/extensibility/how-to-update-a-visual-studio-extension?view=vs-2017);
+* Atualizar todas as extensões no Visual Studio - [COMO FAZER ATUALIZAÇÕES](https://docs.microsoft.com/visualstudio/extensibility/how-to-update-a-visual-studio-extension?view=vs-2017&WT.mc_id=javascript-0000-gllemos);
 
 * Modelo de BOT para C# - [DOWNLOAD AQUI](https://marketplace.visualstudio.com/items?itemName=BotBuilder.botbuilderv4)
 
 * Cadastro no site LUIS: https://www.luis.ai/
-* Cadastro no site Azure: https://azure.microsoft.com/pt-br/services/bot-service/
+* Cadastro no site Azure: https://azure.microsoft.com/services/bot-service/?WT.mc_id=javascript-0000-gllemos
 
 ## Dúvidas?! :triangular_flag_on_post:
 
